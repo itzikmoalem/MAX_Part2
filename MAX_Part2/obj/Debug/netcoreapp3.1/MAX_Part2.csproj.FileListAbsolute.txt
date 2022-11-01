@@ -1,0 +1,13 @@
+C:\Users\itzik\source\repos\MAX_Part2\MAX_Part2\bin\Debug\netcoreapp3.1\MAX_Part2.exe
+C:\Users\itzik\source\repos\MAX_Part2\MAX_Part2\bin\Debug\netcoreapp3.1\MAX_Part2.deps.json
+C:\Users\itzik\source\repos\MAX_Part2\MAX_Part2\bin\Debug\netcoreapp3.1\MAX_Part2.runtimeconfig.json
+C:\Users\itzik\source\repos\MAX_Part2\MAX_Part2\bin\Debug\netcoreapp3.1\MAX_Part2.runtimeconfig.dev.json
+C:\Users\itzik\source\repos\MAX_Part2\MAX_Part2\bin\Debug\netcoreapp3.1\MAX_Part2.dll
+C:\Users\itzik\source\repos\MAX_Part2\MAX_Part2\bin\Debug\netcoreapp3.1\MAX_Part2.pdb
+C:\Users\itzik\source\repos\MAX_Part2\MAX_Part2\obj\Debug\netcoreapp3.1\MAX_Part2.csprojAssemblyReference.cache
+C:\Users\itzik\source\repos\MAX_Part2\MAX_Part2\obj\Debug\netcoreapp3.1\MAX_Part2.AssemblyInfoInputs.cache
+C:\Users\itzik\source\repos\MAX_Part2\MAX_Part2\obj\Debug\netcoreapp3.1\MAX_Part2.AssemblyInfo.cs
+C:\Users\itzik\source\repos\MAX_Part2\MAX_Part2\obj\Debug\netcoreapp3.1\MAX_Part2.csproj.CoreCompileInputs.cache
+C:\Users\itzik\source\repos\MAX_Part2\MAX_Part2\obj\Debug\netcoreapp3.1\MAX_Part2.dll
+C:\Users\itzik\source\repos\MAX_Part2\MAX_Part2\obj\Debug\netcoreapp3.1\MAX_Part2.pdb
+C:\Users\itzik\source\repos\MAX_Part2\MAX_Part2\obj\Debug\netcoreapp3.1\MAX_Part2.genruntimeconfig.cache
